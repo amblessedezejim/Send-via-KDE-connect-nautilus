@@ -1,0 +1,4 @@
+[package]
+name = "send_to_kdeconnect_nautilus"
+version = "0.1.0"
+edition = "2024"
